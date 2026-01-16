@@ -1,0 +1,13 @@
+{
+  "name": "rof-video-source",
+  "version": "1.0.0",
+  "description": "모바일 전용 이미지/영상 갤러리 웹앱",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
